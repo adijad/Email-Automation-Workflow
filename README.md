@@ -57,7 +57,7 @@ This project automates the entire cold outreach workflow:
 
 ---
 
-### I Email Generation 🤖
+### I Email Generation
 - Uses an **AI Agent node**
 - Generates:
   - `subject`
@@ -83,7 +83,7 @@ This project automates the entire cold outreach workflow:
 
 ---
 
-### Tracking & Logging 📊
+### Tracking & Logging
 - Appends outreach data to Google Sheets:
   - Name
   - Email
@@ -92,12 +92,3 @@ This project automates the entire cold outreach workflow:
   - `response_received = NO`
 
 ---
-
-### Control Layer
-- **Wait Node**
-  - Prevents rate limits
-  - Controls execution pacing
-
----
-
-## 📁 Project Structure
