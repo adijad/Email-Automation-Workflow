@@ -80,8 +80,3 @@ The workflow will automatically process the inputs, generate personalized email 
 There are several natural extensions to this system that can further enhance its capabilities. These include automatic email sending after approval, LinkedIn-based enrichment for better personalization, follow-up email automation, response detection, and integration with a full CRM system.
 
 ---
-
-## Author
-
-**Aditya Jadhav**  
-AI/ML Engineer focused on agentic systems, workflow automation, and production-ready AI pipelines.
